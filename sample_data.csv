@@ -1,0 +1,101 @@
+EmployeeNumber,Age,Department,JobRole,MonthlyIncome,YearsAtCompany,YearsSinceLastPromotion,OverTime,JobSatisfaction,WorkLifeBalance,EnvironmentSatisfaction,DistanceFromHome,NumCompaniesWorked,Attrition
+1,41,Sales,Sales Executive,5993,8,0,Yes,4,1,2,1,8,Yes
+2,49,Research & Development,Research Scientist,5130,10,1,No,2,3,3,8,1,No
+3,37,Research & Development,Laboratory Technician,2090,7,3,Yes,3,3,4,2,6,Yes
+4,33,Research & Development,Research Scientist,2909,8,0,Yes,3,3,4,3,1,No
+5,27,Research & Development,Laboratory Technician,3468,2,2,No,3,3,1,2,9,No
+6,32,Research & Development,Laboratory Technician,3068,7,3,No,4,3,4,2,0,No
+7,59,Research & Development,Laboratory Technician,2670,1,0,Yes,1,2,3,3,4,Yes
+8,30,Research & Development,Laboratory Technician,2693,1,0,No,4,3,4,24,1,No
+9,38,Research & Development,Laboratory Technician,9526,9,4,No,3,3,3,23,0,No
+10,36,Research & Development,Laboratory Technician,5237,7,1,No,3,3,4,27,6,No
+11,35,Sales,Sales Executive,2426,5,0,Yes,3,3,3,16,9,Yes
+12,29,Research & Development,Research Scientist,4193,9,8,No,3,3,2,15,0,No
+13,31,Research & Development,Research Scientist,2911,5,0,No,4,2,4,26,3,No
+14,34,Research & Development,Laboratory Technician,2661,16,10,No,3,3,3,19,2,No
+15,28,Sales,Sales Representative,2028,2,0,Yes,2,3,2,24,3,Yes
+16,29,Research & Development,Research Scientist,3298,5,0,No,3,3,4,21,0,No
+17,57,Research & Development,Laboratory Technician,4067,20,6,No,3,3,1,5,1,No
+18,46,Research & Development,Manufacturing Director,5200,14,5,No,4,3,4,21,3,No
+19,24,Research & Development,Laboratory Technician,1358,1,0,Yes,3,3,2,11,6,Yes
+20,32,Research & Development,Research Scientist,5401,5,4,No,3,3,3,17,1,No
+21,41,Research & Development,Laboratory Technician,8268,25,0,No,4,3,3,19,2,No
+22,31,Research & Development,Research Scientist,2758,1,0,Yes,3,3,3,26,4,Yes
+23,45,Human Resources,Human Resources,2259,1,0,No,2,3,2,2,6,No
+24,34,Research & Development,Laboratory Technician,3433,4,0,No,4,3,4,16,1,No
+25,25,Sales,Sales Representative,16414,1,0,No,3,2,3,22,1,No
+26,42,Research & Development,Senior Scientist,3600,7,1,No,4,3,4,5,0,No
+27,37,Research & Development,Research Scientist,8358,7,7,No,3,3,4,1,0,No
+28,46,Research & Development,Laboratory Technician,2124,5,1,Yes,2,3,2,9,3,Yes
+29,36,Research & Development,Laboratory Technician,2340,9,8,No,4,3,4,7,0,No
+30,29,Research & Development,Laboratory Technician,13610,7,0,No,4,3,4,21,1,No
+31,43,Sales,Sales Executive,4234,6,2,No,3,3,4,8,9,No
+32,40,Human Resources,Human Resources,4087,5,3,No,3,3,3,12,2,No
+33,38,Research & Development,Research Scientist,4193,9,0,No,3,3,3,14,3,No
+34,22,Sales,Sales Representative,1500,1,0,Yes,1,1,1,28,1,Yes
+35,26,Research & Development,Laboratory Technician,2094,3,2,No,3,2,3,4,4,No
+36,29,Research & Development,Research Scientist,2340,4,0,Yes,2,3,2,18,2,Yes
+37,48,Sales,Sales Executive,6500,12,3,No,4,3,4,6,5,No
+38,31,Research & Development,Laboratory Technician,2800,2,1,Yes,1,2,1,22,7,Yes
+39,55,Research & Development,Research Director,15000,20,5,No,4,3,4,3,2,No
+40,36,Sales,Sales Executive,4500,6,2,No,3,3,3,9,4,No
+41,28,Human Resources,Human Resources,2200,3,1,Yes,2,2,2,14,3,Yes
+42,33,Research & Development,Laboratory Technician,3100,5,3,No,3,3,3,7,1,No
+43,44,Research & Development,Manufacturing Director,8900,10,4,No,4,3,4,11,3,No
+44,27,Sales,Sales Representative,1800,1,0,Yes,1,1,2,25,2,Yes
+45,39,Research & Development,Research Scientist,5600,8,2,No,3,3,3,16,0,No
+46,52,Research & Development,Senior Scientist,11200,18,6,No,4,3,4,2,1,No
+47,23,Sales,Sales Representative,1650,1,0,Yes,2,2,1,30,1,Yes
+48,35,Research & Development,Laboratory Technician,2750,4,1,No,3,3,2,8,3,No
+49,42,Research & Development,Research Scientist,6800,9,3,No,4,3,4,5,0,No
+50,30,Human Resources,Human Resources,2900,3,2,No,3,3,3,13,2,No
+51,38,Sales,Sales Executive,5100,7,1,No,3,3,3,10,6,No
+52,25,Research & Development,Laboratory Technician,1900,2,0,Yes,2,2,2,19,4,Yes
+53,47,Research & Development,Manufacturing Director,9400,14,6,No,4,3,4,4,2,No
+54,31,Research & Development,Research Scientist,3200,5,0,No,3,3,3,23,1,No
+55,29,Sales,Sales Representative,1700,1,0,Yes,1,1,1,27,3,Yes
+56,36,Research & Development,Laboratory Technician,3000,6,2,No,3,3,3,12,0,No
+57,53,Research & Development,Senior Scientist,12000,19,7,No,4,3,4,6,1,No
+58,24,Human Resources,Human Resources,1950,2,0,Yes,2,2,1,17,5,Yes
+59,40,Research & Development,Research Scientist,5800,8,4,No,4,3,4,9,0,No
+60,33,Sales,Sales Executive,4300,5,1,No,3,3,3,14,7,No
+61,28,Research & Development,Laboratory Technician,2100,3,1,Yes,2,2,2,21,2,Yes
+62,45,Research & Development,Manufacturing Director,9000,13,5,No,4,3,4,3,3,No
+63,35,Research & Development,Research Scientist,4700,7,2,No,3,3,3,18,1,No
+64,27,Sales,Sales Representative,1600,1,0,Yes,1,1,1,29,2,Yes
+65,41,Research & Development,Laboratory Technician,5300,9,3,No,3,3,3,7,0,No
+66,32,Human Resources,Human Resources,3000,4,2,No,4,3,4,11,1,No
+67,48,Research & Development,Senior Scientist,10500,16,5,No,4,3,4,5,2,No
+68,26,Sales,Sales Representative,1750,1,0,Yes,2,2,2,24,4,Yes
+69,37,Research & Development,Research Scientist,5200,6,3,No,3,3,3,15,0,No
+70,30,Research & Development,Laboratory Technician,2600,4,1,No,3,3,2,20,3,No
+71,43,Sales,Sales Executive,6200,11,4,No,4,3,4,8,5,No
+72,25,Research & Development,Laboratory Technician,1850,2,0,Yes,1,1,1,26,6,Yes
+73,34,Research & Development,Research Scientist,4000,6,2,No,3,3,3,13,1,No
+74,50,Research & Development,Research Director,13500,18,8,No,4,3,4,4,2,No
+75,29,Human Resources,Human Resources,2400,3,1,Yes,2,2,2,16,3,Yes
+76,38,Sales,Sales Executive,5400,7,2,No,3,3,3,10,6,No
+77,23,Research & Development,Laboratory Technician,1700,1,0,Yes,2,2,1,22,5,Yes
+78,44,Research & Development,Manufacturing Director,9200,12,6,No,4,3,4,6,2,No
+79,31,Research & Development,Research Scientist,3500,5,1,No,3,3,3,19,0,No
+80,26,Sales,Sales Representative,1650,1,0,Yes,1,1,2,28,1,Yes
+81,39,Research & Development,Laboratory Technician,5000,8,3,No,3,3,3,9,0,No
+82,55,Research & Development,Senior Scientist,14000,22,9,No,4,3,4,3,1,No
+83,27,Human Resources,Human Resources,2100,2,0,Yes,2,2,2,15,4,Yes
+84,33,Sales,Sales Executive,4100,6,2,No,3,3,3,12,8,No
+85,46,Research & Development,Research Scientist,7200,11,4,No,4,3,4,7,0,No
+86,24,Research & Development,Laboratory Technician,1800,2,0,Yes,1,1,1,25,6,Yes
+87,40,Research & Development,Manufacturing Director,8600,10,5,No,4,3,4,5,3,No
+88,35,Sales,Sales Executive,4600,7,1,No,3,3,3,11,5,No
+89,29,Human Resources,Human Resources,2300,3,1,No,3,3,3,14,2,No
+90,36,Research & Development,Research Scientist,4900,6,3,No,4,3,4,8,0,No
+91,28,Research & Development,Laboratory Technician,2000,3,0,Yes,2,2,2,20,3,Yes
+92,51,Research & Development,Senior Scientist,11500,17,6,No,4,3,4,4,1,No
+93,30,Sales,Sales Representative,1900,2,0,Yes,1,1,1,27,2,Yes
+94,42,Research & Development,Research Scientist,6100,9,4,No,3,3,3,10,0,No
+95,37,Research & Development,Laboratory Technician,3400,6,2,No,3,3,3,16,1,No
+96,25,Human Resources,Human Resources,2000,2,0,Yes,2,2,1,18,4,Yes
+97,43,Sales,Sales Executive,6400,10,3,No,4,3,4,9,6,No
+98,32,Research & Development,Research Scientist,3800,5,2,No,3,3,3,13,1,No
+99,27,Research & Development,Laboratory Technician,2200,3,1,Yes,2,2,2,23,5,Yes
+100,48,Research & Development,Manufacturing Director,9600,15,7,No,4,3,4,3,2,No

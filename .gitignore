@@ -1,0 +1,20 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.pkl
+.DS_Store
+
+# Large dataset files
+data/
+
+# Trained ML models (too large for GitHub)
+models/
+
+# Scratch / debug scripts
+scratch/
+
+# Flask instance folder
+instance/

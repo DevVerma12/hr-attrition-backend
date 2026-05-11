@@ -1,0 +1,21 @@
+EmployeeNumber,Age,Department,JobRole,MonthlyIncome,YearsAtCompany,YearsSinceLastPromotion,OverTime,JobSatisfaction,WorkLifeBalance,EnvironmentSatisfaction,DistanceFromHome,NumCompaniesWorked,Attrition
+101,41,Sales,Sales Executive,5993,6,0,Yes,4,1,2,1,8,Yes
+102,49,Research & Development,Research Scientist,5130,10,1,No,2,3,3,8,1,No
+103,37,Research & Development,Laboratory Technician,2090,0,0,Yes,3,3,4,2,6,Yes
+104,33,Research & Development,Research Scientist,2909,8,3,Yes,3,3,4,3,1,No
+105,27,Research & Development,Laboratory Technician,3468,2,2,No,2,3,1,2,9,No
+106,32,Research & Development,Laboratory Technician,3068,7,3,No,4,2,4,2,0,No
+107,59,Research & Development,Laboratory Technician,2670,1,0,Yes,1,2,3,3,4,No
+108,30,Research & Development,Laboratory Technician,2693,1,0,No,3,3,4,24,1,No
+109,38,Research & Development,Manufacturing Director,9526,9,1,No,3,3,4,23,0,No
+110,36,Human Resources,Human Resources,5237,7,7,No,3,2,3,27,6,No
+111,35,Research & Development,Laboratory Technician,2426,5,0,No,2,3,1,16,0,No
+112,29,Sales,Sales Representative,4193,9,0,Yes,3,3,4,15,0,No
+113,31,Research & Development,Research Scientist,2911,5,4,No,3,2,1,26,1,No
+114,34,Research & Development,Laboratory Technician,2661,2,1,No,4,3,2,19,0,No
+115,28,Research & Development,Laboratory Technician,2028,4,0,Yes,3,3,3,24,5,Yes
+116,29,Research & Development,Manufacturing Director,9980,10,8,No,1,3,2,21,1,No
+117,32,Research & Development,Research Scientist,3298,6,0,Yes,2,2,1,5,0,No
+118,22,Research & Development,Laboratory Technician,2935,1,0,Yes,4,2,4,16,1,No
+119,53,Sales,Manager,15427,25,3,No,4,3,1,2,2,No
+120,38,Research & Development,Research Scientist,3944,3,1,Yes,4,3,4,2,5,No
