@@ -10,9 +10,6 @@ venv/
 # Large dataset files
 data/
 
-# Trained ML models (too large for GitHub)
-models/
-
 # Scratch / debug scripts
 scratch/
 
